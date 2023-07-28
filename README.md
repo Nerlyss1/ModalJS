@@ -22,6 +22,10 @@ app.js: Ce fichier contient le code JavaScript qui gère le fonctionnement du mo
 
 Vous pouvez personnaliser le contenu du modal en modifiant le balise h1 et la balise p ainsi que la balise avec l'id "modalTitle" et "dialogDesc" respectivement, dans le fichier index.html. Vous pouvez également ajuster les styles du modal en modifiant les règles CSS dans le fichier style.css.
 
+## Auteur
+
+Ce projet a été développé par [Nerlyss1](https://github.com/Nerlyss1).
+
 
 
 
